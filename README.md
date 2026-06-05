@@ -6,3 +6,6 @@ A simple Windows batch script that batch renames file extensions to .txt in the 
 1. Download / Copy the batch script (.bat file)
 2. Place the script in the target folder where you want to rename files
 3. Double-click to run the script
+
+### Openclaude
+Just don't want to open the cmd and type "claude" again
